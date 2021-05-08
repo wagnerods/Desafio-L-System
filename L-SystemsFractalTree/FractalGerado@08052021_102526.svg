@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?> 
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"> 
+	  <line x1 = "1210" y1 = "365" x2 = "1210" y2 = "345" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1210" y1 = "345" x2 = "1216" y2 = "327" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1216" y1 = "327" x2 = "1228" y2 = "312" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1228" y1 = "312" x2 = "1245" y2 = "303" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1245" y1 = "303" x2 = "1262" y2 = "294" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1262" y1 = "294" x2 = "1281" y2 = "291" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1281" y1 = "291" x2 = "1300" y2 = "294" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1300" y1 = "294" x2 = "1317" y2 = "303" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1317" y1 = "303" x2 = "1334" y2 = "312" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1334" y1 = "312" x2 = "1346" y2 = "327" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1346" y1 = "327" x2 = "1352" y2 = "345" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1352" y1 = "345" x2 = "1352" y2 = "365" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1352" y1 = "365" x2 = "1352" y2 = "385" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1352" y1 = "385" x2 = "1346" y2 = "403" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1346" y1 = "403" x2 = "1334" y2 = "418" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1334" y1 = "418" x2 = "1317" y2 = "427" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1317" y1 = "427" x2 = "1300" y2 = "436" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1300" y1 = "436" x2 = "1281" y2 = "439" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1281" y1 = "439" x2 = "1262" y2 = "436" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1262" y1 = "436" x2 = "1245" y2 = "426" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1245" y1 = "426" x2 = "1228" y2 = "416" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1228" y1 = "416" x2 = "1216" y2 = "401" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1216" y1 = "401" x2 = "1210" y2 = "383" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1210" y1 = "383" x2 = "1210" y2 = "363" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1210" y1 = "363" x2 = "1210" y2 = "343" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1210" y1 = "343" x2 = "1216" y2 = "325" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1216" y1 = "325" x2 = "1228" y2 = "310" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1228" y1 = "310" x2 = "1245" y2 = "300" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1245" y1 = "300" x2 = "1262" y2 = "290" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1262" y1 = "290" x2 = "1281" y2 = "287" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1281" y1 = "287" x2 = "1300" y2 = "290" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1300" y1 = "290" x2 = "1317" y2 = "300" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1317" y1 = "300" x2 = "1334" y2 = "310" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1334" y1 = "310" x2 = "1346" y2 = "325" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1346" y1 = "325" x2 = "1352" y2 = "343" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1352" y1 = "343" x2 = "1352" y2 = "363" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1352" y1 = "363" x2 = "1352" y2 = "383" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1352" y1 = "383" x2 = "1346" y2 = "401" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1346" y1 = "401" x2 = "1334" y2 = "416" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1334" y1 = "416" x2 = "1317" y2 = "425" stroke = "black" stroke-width = "1"/> 
+<\svg> 

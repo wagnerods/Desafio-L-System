@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?> 
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"> 
+	  <line x1 = "974" y1 = "327" x2 = "1074" y2 = "154" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1074" y1 = "154" x2 = "1261" y2 = "86" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1261" y1 = "86" x2 = "1448" y2 = "154" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1448" y1 = "154" x2 = "1635" y2 = "222" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1635" y1 = "222" x2 = "1735" y2 = "395" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1735" y1 = "395" x2 = "1701" y2 = "591" stroke = "black" stroke-width = "1"/> 
+<\svg> 

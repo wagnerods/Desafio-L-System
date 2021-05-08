@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?> 
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"> 
+	  <line x1 = "926" y1 = "499" x2 = "926" y2 = "479" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "926" y1 = "479" x2 = "932" y2 = "461" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "932" y1 = "461" x2 = "944" y2 = "446" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "944" y1 = "446" x2 = "961" y2 = "437" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "961" y1 = "437" x2 = "978" y2 = "428" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "978" y1 = "428" x2 = "997" y2 = "425" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "997" y1 = "425" x2 = "1016" y2 = "428" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1016" y1 = "428" x2 = "1033" y2 = "437" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1033" y1 = "437" x2 = "1050" y2 = "446" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1050" y1 = "446" x2 = "1062" y2 = "461" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1062" y1 = "461" x2 = "1068" y2 = "479" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1068" y1 = "479" x2 = "1068" y2 = "499" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1068" y1 = "499" x2 = "1068" y2 = "519" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1068" y1 = "519" x2 = "1062" y2 = "537" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1062" y1 = "537" x2 = "1050" y2 = "552" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1050" y1 = "552" x2 = "1033" y2 = "561" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1033" y1 = "561" x2 = "1016" y2 = "570" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "1016" y1 = "570" x2 = "997" y2 = "573" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "997" y1 = "573" x2 = "978" y2 = "570" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "978" y1 = "570" x2 = "961" y2 = "560" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "961" y1 = "560" x2 = "944" y2 = "550" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "944" y1 = "550" x2 = "932" y2 = "535" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "932" y1 = "535" x2 = "926" y2 = "517" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "926" y1 = "517" x2 = "926" y2 = "497" stroke = "black" stroke-width = "1"/> 
+<\svg> 

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?> 
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"> 
+	  <line x1 = "562" y1 = "507" x2 = "562" y2 = "500" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "562" y1 = "500" x2 = "566" y2 = "494" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "566" y1 = "494" x2 = "573" y2 = "491" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "573" y1 = "491" x2 = "580" y2 = "492" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "580" y1 = "492" x2 = "587" y2 = "493" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "587" y1 = "493" x2 = "593" y2 = "498" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "593" y1 = "498" x2 = "595" y2 = "505" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "595" y1 = "505" x2 = "594" y2 = "512" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "594" y1 = "512" x2 = "593" y2 = "519" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "593" y1 = "519" x2 = "588" y2 = "524" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "588" y1 = "524" x2 = "581" y2 = "526" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "581" y1 = "526" x2 = "574" y2 = "524" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "574" y1 = "524" x2 = "567" y2 = "522" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "567" y1 = "522" x2 = "562" y2 = "517" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "562" y1 = "517" x2 = "561" y2 = "510" stroke = "black" stroke-width = "1"/> 
+	  <line x1 = "561" y1 = "510" x2 = "563" y2 = "503" stroke = "black" stroke-width = "1"/> 
+<\svg> 
